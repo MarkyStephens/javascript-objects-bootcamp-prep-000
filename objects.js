@@ -1,3 +1,4 @@
 playlist = {
-'Oasis':
+'Oasis': 'Wonderwall',
+'Elton John': 'Rocket Man'
 }
